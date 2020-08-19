@@ -11,3 +11,9 @@ C:\Users\PICHAU\Documents\Lógica de programação\URI 1044\Exercicios-URI\obj\D
 C:\Users\PICHAU\Documents\Lógica de programação\URI 1044\Exercicios-URI\obj\Debug\netcoreapp3.1\Exercicios-URI.dll
 C:\Users\PICHAU\Documents\Lógica de programação\URI 1044\Exercicios-URI\obj\Debug\netcoreapp3.1\Exercicios-URI.pdb
 C:\Users\PICHAU\Documents\Lógica de programação\URI 1044\Exercicios-URI\obj\Debug\netcoreapp3.1\Exercicios-URI.genruntimeconfig.cache
+C:\Users\matheus.sousa\Exercicios-Uri\obj\Debug\netcoreapp3.1\Exercicios-URI.csprojAssemblyReference.cache
+C:\Users\matheus.sousa\Exercicios-Uri\obj\Debug\netcoreapp3.1\Exercicios-URI.csproj.CoreCompileInputs.cache
+C:\Users\matheus.sousa\Exercicios-Uri\obj\Debug\netcoreapp3.1\Exercicios-URI.AssemblyInfoInputs.cache
+C:\Users\matheus.sousa\Exercicios-Uri\obj\Debug\netcoreapp3.1\Exercicios-URI.AssemblyInfo.cs
+C:\Users\matheus.sousa\Exercicios-Uri\obj\Debug\netcoreapp3.1\Exercicios-URI.dll
+C:\Users\matheus.sousa\Exercicios-Uri\obj\Debug\netcoreapp3.1\Exercicios-URI.pdb

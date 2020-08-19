@@ -10,14 +10,14 @@ namespace Exercicios_URI
             a = int.Parse(vet[0]);
             b = int.Parse(vet[1]); 
 
-            switch (m)
-            { case 1: 
-            
-
+            if ( a % b == 0 || b % a == 0){
+                Console.Writeline("Sao Multiplos");
                 
-                default:
             }
-            
+            else {
+                Console.Writeline("Nao sao Multiplos")
+            }
         }
+        console.ReadLine();
     }
 }
