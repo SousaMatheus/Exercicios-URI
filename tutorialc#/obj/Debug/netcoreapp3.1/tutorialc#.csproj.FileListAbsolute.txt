@@ -1,0 +1,13 @@
+C:\Users\matheus.sousa\Exercicios-Uri\tutorialc#\bin\Debug\netcoreapp3.1\tutorialc#.exe
+C:\Users\matheus.sousa\Exercicios-Uri\tutorialc#\bin\Debug\netcoreapp3.1\tutorialc#.deps.json
+C:\Users\matheus.sousa\Exercicios-Uri\tutorialc#\bin\Debug\netcoreapp3.1\tutorialc#.runtimeconfig.json
+C:\Users\matheus.sousa\Exercicios-Uri\tutorialc#\bin\Debug\netcoreapp3.1\tutorialc#.runtimeconfig.dev.json
+C:\Users\matheus.sousa\Exercicios-Uri\tutorialc#\bin\Debug\netcoreapp3.1\tutorialc#.dll
+C:\Users\matheus.sousa\Exercicios-Uri\tutorialc#\bin\Debug\netcoreapp3.1\tutorialc#.pdb
+C:\Users\matheus.sousa\Exercicios-Uri\tutorialc#\obj\Debug\netcoreapp3.1\tutorialc#.csprojAssemblyReference.cache
+C:\Users\matheus.sousa\Exercicios-Uri\tutorialc#\obj\Debug\netcoreapp3.1\tutorialc#.AssemblyInfoInputs.cache
+C:\Users\matheus.sousa\Exercicios-Uri\tutorialc#\obj\Debug\netcoreapp3.1\tutorialc#.AssemblyInfo.cs
+C:\Users\matheus.sousa\Exercicios-Uri\tutorialc#\obj\Debug\netcoreapp3.1\tutorialc#.csproj.CoreCompileInputs.cache
+C:\Users\matheus.sousa\Exercicios-Uri\tutorialc#\obj\Debug\netcoreapp3.1\tutorialc#.dll
+C:\Users\matheus.sousa\Exercicios-Uri\tutorialc#\obj\Debug\netcoreapp3.1\tutorialc#.pdb
+C:\Users\matheus.sousa\Exercicios-Uri\tutorialc#\obj\Debug\netcoreapp3.1\tutorialc#.genruntimeconfig.cache
