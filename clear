@@ -1,0 +1,29 @@
+[33mcommit a5619d419fab8af98fa571a22b6d3923e204999b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Matheus Sousa <ma.sousa.soares@gmail.com>
+Date:   Wed Aug 19 22:57:00 2020 -0300
+
+    Concluido programa PC pessoal
+
+[33mcommit 6bce89630248a903e65a133d0cc29914d1cc775e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Matheus Sousa <ma.sousa.soares@gmail.com>
+Date:   Mon Aug 17 22:42:15 2020 -0300
+
+    Declarado variáveis e adicionado arquivos do projeto
+
+[33mcommit ca6f1aa287aab5d78e3d1c108cd6d5151bd2e614[m
+Author: Matheus Sousa <ma.sousa.soares@gmail.com>
+Date:   Sat Aug 15 18:44:43 2020 -0300
+
+    Criei o primeiro aplicativo de console .NET
+
+[33mcommit ed9526884db988bd6de2a743160354057cecf8a7[m
+Author: Matheus Sousa <ma.sousa.soares@gmail.com>
+Date:   Sat Aug 15 08:55:53 2020 -0300
+
+    Criei URI 1044 .csproj
+
+[33mcommit dfff76caeaec616f1e3cd5bab70300ae6c163fb8[m
+Author: SousaMatheus <69647984+SousaMatheus@users.noreply.github.com>
+Date:   Sat Aug 15 08:48:39 2020 -0300
+
+    Initial commit
