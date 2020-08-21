@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\PICHAU\\.nuget\\packages\\": {}
+    "C:\\Users\\matheus.sousa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PICHAU\\Documents\\Lógica de programação\\URI 1044\\Exercicios-URI\\Exercicios-URI.csproj",
+      "projectUniqueName": "C:\\Users\\matheus.sousa\\Exercicios-Uri\\Exercicios-URI.csproj",
       "projectName": "Exercicios-URI",
-      "projectPath": "C:\\Users\\PICHAU\\Documents\\Lógica de programação\\URI 1044\\Exercicios-URI\\Exercicios-URI.csproj",
-      "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PICHAU\\Documents\\Lógica de programação\\URI 1044\\Exercicios-URI\\obj\\",
+      "projectPath": "C:\\Users\\matheus.sousa\\Exercicios-Uri\\Exercicios-URI.csproj",
+      "packagesPath": "C:\\Users\\matheus.sousa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\matheus.sousa\\Exercicios-Uri\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\matheus.sousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
