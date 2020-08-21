@@ -29,7 +29,10 @@ namespace HelloWorld
             }
         }
         console.ReadLine();
+<<<<<<< HEAD
 >>>>>>> c9a50b7bfef8310ebf2b41b14c66edc92b442b47
+=======
+>>>>>>> refs/remotes/origin/master
     }
 }
 }
