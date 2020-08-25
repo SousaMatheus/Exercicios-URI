@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matheus.sousa\\exercicios-uri\\Exercicios-URI.csproj": {}
+    "C:\\Users\\PICHAU\\Documents\\Lógica de programação\\URI 1044\\Exercicios-URI\\Exercicios-URI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matheus.sousa\\exercicios-uri\\Exercicios-URI.csproj": {
+    "C:\\Users\\PICHAU\\Documents\\Lógica de programação\\URI 1044\\Exercicios-URI\\Exercicios-URI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matheus.sousa\\exercicios-uri\\Exercicios-URI.csproj",
+        "projectUniqueName": "C:\\Users\\PICHAU\\Documents\\Lógica de programação\\URI 1044\\Exercicios-URI\\Exercicios-URI.csproj",
         "projectName": "Exercicios-URI",
-        "projectPath": "C:\\Users\\matheus.sousa\\exercicios-uri\\Exercicios-URI.csproj",
-        "packagesPath": "C:\\Users\\matheus.sousa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matheus.sousa\\exercicios-uri\\obj\\",
+        "projectPath": "C:\\Users\\PICHAU\\Documents\\Lógica de programação\\URI 1044\\Exercicios-URI\\Exercicios-URI.csproj",
+        "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PICHAU\\Documents\\Lógica de programação\\URI 1044\\Exercicios-URI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matheus.sousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

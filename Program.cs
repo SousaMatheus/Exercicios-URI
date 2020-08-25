@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace URI 1044
+namespace URI1044
 {
     class Program
     {
